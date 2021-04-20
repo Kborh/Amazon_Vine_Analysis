@@ -9,15 +9,15 @@
    My focused was on the US reviews for video games.
 
 ## Resource
-    . Data Source: Amazon Review dataset, Video Games Revieew dataset
-    . Software used: Google Colab Notebook, PostgreSQL, pgAdmin4, AWS
+    - Data Source: Amazon Review dataset, Video Games Revieew dataset
+    - Software used: Google Colab Notebook, PostgreSQL, pgAdmin4, AWS
     
     
 ## Outcome
 
 ## Total number of reviews
       
-     . Vine reviews
+     - Vine reviews <p align="center">
+         <img src=""
      
-                  ![](images/paid_total_count)
-    
+                  
