@@ -18,6 +18,6 @@
 ## Total number of reviews
       
      - Vine reviews <p align="center">
-         <img src=""
+         <img src="https://github.com/Kborh/Amazon_Vine_Analysis/blob/main/images/paid_total_count.png">
      
                   
