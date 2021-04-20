@@ -16,4 +16,8 @@
 ## Outcome
 
 ## Total number of reviews
+      
+     . Vine reviews
+     
+                  ![](images/paid_total_count)
     
