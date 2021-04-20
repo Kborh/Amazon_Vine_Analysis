@@ -18,6 +18,6 @@
 ## Total number of reviews
       
      - Vine reviews 
-         ![](/images/paid_total_count.png)
+         ![](images/paid_total_count.png)
      
                   
